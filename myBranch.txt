@@ -1,1 +1,4 @@
+
 Let's test conflict line 1.
+This is change from myBranch branch.
+
