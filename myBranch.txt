@@ -2,5 +2,6 @@
 Let's test conflict line 1.
 This is change from myBranch branch.
 
-This changes are from AB's local.
+These changes are from AB's local.
+There was a grammar mistake but nobody noticed.
 
