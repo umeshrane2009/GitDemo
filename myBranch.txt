@@ -1,3 +1,12 @@
+
+
+Let's test conflict line 1.
 This is change from myBranch branch.
 
-Check these changes from Pull Request. 
+These changes are from AB's local.
+There was a grammar mistake but nobody noticed.
+
+
+Let's make more changes.
+
+Let's try Pull Request.
